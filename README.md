@@ -28,7 +28,7 @@ DriveShield is a **heuristic inspection tool**, not an antivirus engine. A flagg
 
 ```bash
 git clone <your-repository-url>
-cd driveshield
+cd DriveShield
 npm install
 npm start
 ```
